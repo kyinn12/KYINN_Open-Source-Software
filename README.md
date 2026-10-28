@@ -1,4 +1,4 @@
-# MySudoku — Sudoku with Your Own Characters
+# MySudoku - Sudoku with Your Own Characters
 
 ## Motivation
 
